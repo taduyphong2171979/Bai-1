@@ -6,7 +6,7 @@ La Duc Hai - lahai@vnpt.vn
 
 1. Clone code project từ git
 ```console
-git clone https://github.com/cuongnm39/bai1.git
+git clone https://github.com/taduyphong2171979/bai-1.git
 ```
 2. Buil docker và run
 ```console
