@@ -1,8 +1,8 @@
 # ASP.NET Core Docker Sample
 
-Ngo Manh Cuong - ngomanhcuong@vnpt.vn\
-Duong Thanh Tu - duongthanhtu@vnpt.vn\
-Le Van Chi - chilv@vnpt.vn
+Ta Duy Phong - phongtd@vnpt.vn\
+Nguyen Manh Hung - nmanhhung@vnpt.vn\
+La Duc Hai - lahai@vnpt.vn
 
 1. Clone code project từ git
 ```console
