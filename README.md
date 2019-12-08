@@ -1,5 +1,5 @@
 # ASP.NET Core Docker Sample
-
+Hello World
 Ta Duy Phong - phongtd@vnpt.vn\
 Nguyen Manh Hung - nmanhhung@vnpt.vn\
 La Duc Hai - lahai@vnpt.vn
